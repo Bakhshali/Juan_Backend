@@ -145,3 +145,9 @@ C:\Users\Ali\source\repos\Juan_Project_Praktice\Juan_Project_Praktice\bin\Debug\
 C:\Users\Ali\source\repos\Juan_Project_Praktice\Juan_Project_Praktice\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\Ali\source\repos\Juan_Project_Praktice\Juan_Project_Praktice\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
 C:\Users\Ali\source\repos\Juan_Project_Praktice\Juan_Project_Praktice\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\Ali\source\repos\Juan_Project_Praktice\Juan_Project_Praktice\obj\Debug\netcoreapp3.1\Razor\Areas\JuanAdmin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Ali\source\repos\Juan_Project_Praktice\Juan_Project_Praktice\obj\Debug\netcoreapp3.1\Razor\Areas\JuanAdmin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ali\source\repos\Juan_Project_Praktice\Juan_Project_Praktice\obj\Debug\netcoreapp3.1\Razor\Areas\JuanAdmin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ali\source\repos\Juan_Project_Praktice\Juan_Project_Praktice\obj\Debug\netcoreapp3.1\Razor\Areas\JuanAdmin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ali\source\repos\Juan_Project_Praktice\Juan_Project_Praktice\obj\Debug\netcoreapp3.1\Razor\Areas\JuanAdmin\Views\Slider\Index.cshtml.g.cs
+C:\Users\Ali\source\repos\Juan_Project_Praktice\Juan_Project_Praktice\obj\Debug\netcoreapp3.1\Razor\Areas\JuanAdmin\Views\Slider\Create.cshtml.g.cs

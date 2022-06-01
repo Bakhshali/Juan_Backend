@@ -1,4 +1,7 @@
-﻿namespace Juan_Project_Praktice.Models
+﻿using Microsoft.AspNetCore.Http;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Juan_Project_Praktice.Models
 {
     public class Slider
     {
@@ -8,5 +11,8 @@
         public string Text { get; set; }
         public string Button { get; set; }
         public string Image { get; set; }
+
+        [NotMapped]
+        public IFormFile Photo { get; set; }
     }
 }
